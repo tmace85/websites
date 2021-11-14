@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.tim-schiemann.de/impressum/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/impressum/</loc>
     <lastmod>2021-11-09T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/</loc>
     <lastmod>2020-10-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/blog/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/blog/</loc>
     <lastmod>2020-10-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/tags/corona/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/tags/corona/</loc>
     <lastmod>2020-10-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/tags/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/tags/</loc>
     <lastmod>2020-10-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/blog/ploetzlich-corona/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/blog/ploetzlich-corona/</loc>
     <lastmod>2020-10-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tim-schiemann.de/tags/welcome/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/tags/welcome/</loc>
   </url><url>
-    <loc>https://www.tim-schiemann.de/blog/willkommen/</loc>
+    <loc>https://www.tim-schiemann.de/newblog/blog/willkommen/</loc>
   </url>
 </urlset>

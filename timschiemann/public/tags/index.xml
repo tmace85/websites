@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog of Tim</title>
-    <link>https://www.tim-schiemann.de/tags/</link>
+    <link>https://www.tim-schiemann.de/newblog/tags/</link>
     <description>Recent content in Tags on Blog of Tim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://www.tim-schiemann.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://www.tim-schiemann.de/newblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>corona</title>
-      <link>https://www.tim-schiemann.de/tags/corona/</link>
+      <link>https://www.tim-schiemann.de/newblog/tags/corona/</link>
       <pubDate>Thu, 08 Oct 2020 10:00:00 +0000</pubDate>
       
-      <guid>https://www.tim-schiemann.de/tags/corona/</guid>
+      <guid>https://www.tim-schiemann.de/newblog/tags/corona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://www.tim-schiemann.de/tags/welcome/</link>
+      <link>https://www.tim-schiemann.de/newblog/tags/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.tim-schiemann.de/tags/welcome/</guid>
+      <guid>https://www.tim-schiemann.de/newblog/tags/welcome/</guid>
       <description></description>
     </item>
     

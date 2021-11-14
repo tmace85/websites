@@ -1,4 +1,4 @@
-baseURL: 'https://www.tim-schiemann.de/'
+baseURL: 'https://www.tim-schiemann.de/newblog'
 languageCode: 'en-us'
 title: "Blog of Tim"
 theme:   "hello-friend-ng"
