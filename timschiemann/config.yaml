@@ -1,0 +1,63 @@
+baseURL: 'https://www.tim-schiemann.de/'
+languageCode: 'en-us'
+title: "Blog of Tim"
+theme:   "hello-friend-ng"
+paginate:     10
+defaultContentLanguage:   "de"
+author:
+  tmace85:
+    name: "Tim Schiemann"
+    twitter: "tmace85"
+
+
+taxonomies:
+  tag: "tags"
+
+menu:
+  main:
+  - identifier: posts
+    name:      Posts
+    url:      /blog
+    weight:    1
+  - identifier: impressum
+    name:       Impressum
+    url:        /impressum
+
+enableGlobalLanguageMenu: true
+
+params:
+  dateform: "Jan 2, 2006"
+  dateformShort:  "Jan 2"
+  dateformNum: "2006-01-02"
+  dateformNumTime: "2006-01-02 15:04"
+  enableEmoji: true
+  paginatePath: blog
+  permalinks:
+    blog: /:year/:month/:day/:title/"
+
+  # Subtitle for home
+  homeSubtitle: "A simple and beautiful blog made by hugo"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts: false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons: true
+
+  # Metadata mostly used in document's head
+  description: "Tims Blog"
+  keywords: "homepage, blog"
+  images: ""
+  social:
+    - name: twitter
+      uri: "https://twitter.com/tmace85"
+    - name: linkedin
+      uri:  "https://www.linkedin.com/in/tschiemann/"
+  footer:
+    trademark: true
+    author: true
+    social: true
+  logo:
+    logoText: "Tims Blog"
+    logoHomeLink: "/blog"
+  defaultContentLanguage : de
