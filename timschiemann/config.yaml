@@ -1,4 +1,4 @@
-baseURL: 'https://www.tim-schiemann.de/newblog'
+baseURL: 'https://www.tim-schiemann.de/'
 languageCode: 'en-us'
 title: "Blog of Tim"
 theme:   "hello-friend-ng"
@@ -60,4 +60,3 @@ params:
   logo:
     logoText: "Tims Blog"
     logoHomeLink: "/blog"
-  defaultContentLanguage : de
